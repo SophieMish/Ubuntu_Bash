@@ -1,3 +1,1 @@
-текст который нужно прочитать
-еще текст, все работает
-hello world
+Here are scripts for laboratory work on the theoretical foundations of computer science
